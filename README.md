@@ -26,4 +26,4 @@ Never logged in.
 No mail.
 No Plan.
 ```
-Check for the parameter <i>"Directory:"</i> in the output, if <i>/home/username</i> means that it is a valid user on the system.
+Check for the parameter **<i>"Directory:"</i>** in the output, if **<i>/home/username</i>** means that it is a valid user on the system.
